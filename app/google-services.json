@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835123930765",
+    "firebase_url": "https://srm-weclub.firebaseio.com",
+    "project_id": "srm-weclub",
+    "storage_bucket": "srm-weclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835123930765:android:8a688285e07b0db5",
+        "android_client_info": {
+          "package_name": "in.weclub.srmweclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835123930765-ubt7nslm7d27gb45unadlenpkg5an18q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.weclub.srmweclubapp",
+            "certificate_hash": "ee9d9911c1396abb5bf857d048f3f8a03a8946ee"
+          }
+        },
+        {
+          "client_id": "835123930765-otkeag5in61uqvarkgco78djc6bdajs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwP69F2l9AOoFlleNbRI-9Lx5q0bEiukQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835123930765-otkeag5in61uqvarkgco78djc6bdajs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
